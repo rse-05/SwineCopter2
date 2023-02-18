@@ -1,5 +1,6 @@
 local comp = require('component')
 local modem = comp.modem
+--ура 
 local term = require("term")
 local event = require("event")
 local computer = require('computer')
